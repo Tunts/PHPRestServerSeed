@@ -1,0 +1,11 @@
+#Ignoring audios
+*.mp3
+*.wav
+*.flac
+*.gsm
+*.ogg
+.*wma
+.*aiff
+*.3gp
+*.m4p
+*.amr
